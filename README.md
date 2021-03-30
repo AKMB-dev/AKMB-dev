@@ -3,7 +3,7 @@
 - 🌱 I’m currently working as freelancer
 - I'm a solidity developer and defi specialist
 - 💞️ I’m looking to collaborate on any project related to solidity and defi
-- 📫 you can contact me on linkedIn: bit.ly/3fqsxNr
+- 📫 login to github to see my email
 
 <!---
 AKMB-dev/AKMB-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
